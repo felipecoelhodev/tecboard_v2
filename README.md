@@ -1,6 +1,6 @@
 # 🚀 Tecboard Versão 2
 
-O **Tecboard Versão 2** é uma versão aprimorada do projeto anterior Tecboard: https://github.com/felipecoelhodev/tecboard<br>Ele é uma plataforma de gerenciamento e visualização de eventos de tecnologia. Ele permite que usuários organizem cards de eventos por categorias (temas), facilitando a visualização de cronogramas de forma intuitiva e moderna.
+O **Tecboard Versão 2** é uma versão aprimorada do projeto anterior Tecboard: https://github.com/felipecoelhodev/tecboard<br><br>Ele é uma plataforma de gerenciamento e visualização de eventos de tecnologia. Ele permite que usuários organizem cards de eventos por categorias (temas), facilitando a visualização de cronogramas de forma intuitiva e moderna.
 
 ## ✨ Funcionalidades
 
